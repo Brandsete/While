@@ -20,4 +20,4 @@ https://youtu.be/Ui-_7t6euAY
 Este proyecto está licenciado bajo la **MIT License.**
 
 ## Autor
-Samuel Usma Brand
+Samuel Usma Brand https://github.com/Brandsete/While.git
